@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.6.29)  25 AUG 2019 16:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.6.29)  25 AUG 2019 17:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1291,7 +1291,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 355.
 Here is how much of TeX's memory you used:
  18987 strings out of 493029
  360712 string characters out of 6136234
- 462850 words of memory out of 5000000
+ 463850 words of memory out of 5000000
  22134 multiletter control sequences out of 15000+600000
  15979 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1308,7 +1308,7 @@ ype1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super
 share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/ty
 pe1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/
 sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on jatekok.pdf (28 pages, 363643 bytes).
+Output written on jatekok.pdf (28 pages, 363882 bytes).
 PDF statistics:
  200 PDF objects out of 1000 (max. 8388607)
  152 compressed objects within 2 object streams
